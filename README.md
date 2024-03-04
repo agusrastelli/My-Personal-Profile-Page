@@ -7,7 +7,7 @@ I added two extra HTML pages, new images, additional text and personalized desig
 
 HTML, CSS
 
-##### Extra Features
+#### Extra Features
 
 * Extra page(s) added in addition to the Home and second page and links to the new page(s) work.
 * At least one of the following CSS style properties has been changed on the profile picture:
