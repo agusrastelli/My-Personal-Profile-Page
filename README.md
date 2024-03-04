@@ -3,11 +3,11 @@ This is my first project for the Front End Web Development Tech-degree (Treehous
 
 I added two extra HTML pages, new images, additional text and personalized design.  I also added navigation links to move smoothly between pages and a link with my email.
 
-##Knowledge used
+#Knowledge used
 
 HTML, CSS
 
-##Extra Features
+#Extra Features
 
 * Extra page(s) added in addition to the Home and second page and links to the new page(s) work.
 * At least one of the following CSS style properties has been changed on the profile picture:
